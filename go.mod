@@ -1,4 +1,4 @@
-module github.com/golang-module/carbon/v2
+module github.com/Hevelop/carbon-1
 
 go 1.16
 
