@@ -1,10 +1,10 @@
 # Carbon  #
 
-[![Carbon Release](https://img.shields.io/github/release/golang-module/carbon.svg)](https://github.com/golang-module/carbon/releases)
-[![Go Test](https://github.com/golang-module/carbon/actions/workflows/test.yml/badge.svg)](https://github.com/golang-module/carbon/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang-module/carbon)](https://goreportcard.com/report/github.com/golang-module/carbon)
+[![Carbon Release](https://img.shields.io/github/release/golang-module/carbon.svg)](https://github.com/Hevelop/carbon-1/releases)
+[![Go Test](https://github.com/Hevelop/carbon-1/actions/workflows/test.yml/badge.svg)](https://github.com/Hevelop/carbon-1/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Hevelop/carbon-1)](https://goreportcard.com/report/github.com/Hevelop/carbon-1)
 [![Go Coverage](https://codecov.io/gh/golang-module/carbon/branch/master/graph/badge.svg)](https://codecov.io/gh/golang-module/carbon)
-[![Carbon Doc](https://img.shields.io/badge/go.dev-reference-brightgreen?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/golang-module/carbon)
+[![Carbon Doc](https://img.shields.io/badge/go.dev-reference-brightgreen?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/Hevelop/carbon-1)
 ![License](https://img.shields.io/github/license/golang-module/carbon)
 
 简体中文 | [English](README.md) | [日本語](README.jp.md)
@@ -13,7 +13,7 @@
 
 Carbon 已被 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn#日期和时间 "awesome-go-cn") 收录, 如果您觉得不错，请给个 star 吧
 
-[github.com/golang-module/carbon](https://github.com/golang-module/carbon "github.com/golang-module/carbon")
+[github.com/Hevelop/carbon-1](https://github.com/Hevelop/carbon-1 "github.com/Hevelop/carbon-1")
 
 [gitee.com/golang-module/carbon](https://gitee.com/golang-module/carbon "gitee.com/golang-module/carbon")
 
@@ -23,10 +23,10 @@ Carbon 已被 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn#日�
 
 ```go
 // 使用 github 库
-go get -u github.com/golang-module/carbon/v2
+go get -u github.com/Hevelop/carbon-1/v2
 
 import (
-	"github.com/golang-module/carbon/v2"
+	"github.com/Hevelop/carbon-1/v2"
 )
 
 // 使用 gitee 库
@@ -41,10 +41,10 @@ import (
 
 ```go
 // 使用 github 库
-go get -u github.com/golang-module/carbon
+go get -u github.com/Hevelop/carbon-1
 
 import (
-	"github.com/golang-module/carbon"
+	"github.com/Hevelop/carbon-1"
 )
 
 // 使用 gitee 库
@@ -1499,7 +1499,7 @@ invalid timezone "xxx", please see the file "$GOROOT/lib/time/zoneinfo.zip" for 
 #### 贡献者
 感谢以下所有为 `Carbon` 做出贡献的人：
 
-<a href="https://github.com/golang-module/carbon/graphs/contributors"><img src="https://contrib.rocks/image?repo=golang-module/carbon&max=100&columns=16"/></a>
+<a href="https://github.com/Hevelop/carbon-1/graphs/contributors"><img src="https://contrib.rocks/image?repo=golang-module/carbon&max=100&columns=16"/></a>
 
 #### 赞助
 
